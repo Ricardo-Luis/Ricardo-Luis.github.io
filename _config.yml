@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ricardo Luís"
   avatar           :  "img_lodz.jpg" #"profile.png"
-  bio              : "Adjunct Professor"
+  bio              : "Electrical engineer focused on electrical machines and energy transition"
   location         : "Lisboa, PORTUGAL"
-  employer         :
+  employer         : "Adjunct Professor at ISEL"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ricardo.luis@isel.pt"
