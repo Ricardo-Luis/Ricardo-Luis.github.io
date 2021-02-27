@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "Máquinas Elétricas 2"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "BSc course"
+permalink: https://www.isel.pt/disciplinas/maquinas-eletricas-ii-lee
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
