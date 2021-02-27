@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ricardo Luís"
-  avatar           : "profile.png"
+  avatar           : "profile.png" #"img_lodz.jpg"
   bio              : "Adjunct Professor"
   location         : "Lisboa, PORTUGAL"
   employer         :
@@ -179,13 +179,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
