@@ -1,5 +1,6 @@
 ---
-title: ""
-excerpt: "<br/><img src='/images/under.jpg'>"
-collection: teaching
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
