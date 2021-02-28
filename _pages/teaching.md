@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
+title: ""
+excerpt: "<br/><img src='/images/under.jpg'>"
+collection: teaching
 ---
