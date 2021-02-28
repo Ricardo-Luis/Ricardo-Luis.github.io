@@ -12,7 +12,7 @@ author_profile: true
 ![What is this](https://github.com/Ricardo-Luis/ricardo-luis.github.io/assets/fonts/google-scholar.svg?raw=true)
 
 
-Lorem ipsum dolor sit amet.
+{: .notice}...
 
 [Click me](http://www.google.com){: .btn}
 
