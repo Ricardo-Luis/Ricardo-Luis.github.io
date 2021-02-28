@@ -3,8 +3,8 @@ title: "Máquinas Elétricas 2"
 collection: teaching
 type: "BSc course"
 permalink: https://www.isel.pt/disciplinas/maquinas-eletricas-ii-lee
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Instituto Superior de Engenharia de Lisboa, Department of Electrical Engineering"
+date: 2015/...
 location: "City, Country"
 ---
 
