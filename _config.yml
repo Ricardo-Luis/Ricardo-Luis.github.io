@@ -184,6 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -227,6 +230,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+ # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true     
+      
   # _portfolio
   - scope:
       path: ""
