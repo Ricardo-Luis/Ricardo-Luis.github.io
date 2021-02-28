@@ -10,3 +10,9 @@ author_profile: true
 
 ###@icon-google-scholar
 ![What is this](https://github.com/Ricardo-Luis/ricardo-luis.github.io/assets/fonts/google-scholar.svg?raw=true)
+
+
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
+
