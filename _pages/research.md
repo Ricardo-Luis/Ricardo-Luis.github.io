@@ -9,4 +9,4 @@ author_profile: true
 #TEST
 
 ###@icon-google-scholar
-![What is this](google-scholar.svg)
+![What is this](https://github.com/Ricardo-Luis/ricardo.github.io/assets/fonts/google-scholar.svg?raw=true)
