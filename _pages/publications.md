@@ -32,10 +32,10 @@ Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 "_Geradores de velocidade variável_", WISE'1 – 1º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 21 Mar. 2011
 
 "_Controlo por Supervisão de um posicionador electromecânico_", 1º Workshop em Engenharia Electrotécnica, ISEL/DEEA, Out. 2005\
-DOI: [10.5281/zenodo.1041941](https://doi.org/10.5281/zenodo.1041941)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1041941.svg)](https://doi.org/10.5281/zenodo.1041941)
 
 "_Planeamento de Manutenção do Laboratório de Máquinas Eléctricas_", Seminários CIPROMEC, ISEL, 29 Nov. 2000\
-DOI: [10.5281/zenodo.1052585](https://doi.org/10.5281/zenodo.1052585)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1052585.svg)](https://doi.org/10.5281/zenodo.1052585)
 
 ## Poster presentation:
 "_Variable Speed Generator to Increase the Diesel Gen-set Efficiency_", INESC-ID Lisboa, Instituto Superior Técnico, April 7-8, 2016
