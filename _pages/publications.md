@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Journal and conference papers
-Visit my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Ricardo_Luis) profiles
+Visit my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ), [Web of Science ResearcherID](https://publons.com/researcher/1194645/ricardo-luis/) or [ResearchGate](https://www.researchgate.net/profile/Ricardo_Luis) academic profiles
 
 ## PhD thesis
 "_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_", July 2015\
