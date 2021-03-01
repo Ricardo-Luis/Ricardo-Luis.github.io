@@ -19,7 +19,7 @@ Instituto Superior Técnico, Universidade de Lisboa
 "_Desenvolvimento de um Controlador Fuzzy para um Posicionador Electromecânico Linear_", July 2007\
 Engenharia Eletrotécnica e de Computadores\
 Instituto Superior Técnico, Universidade de Lisboa\
-Resume and presentation: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1038539.svg)](https://doi.org/10.5281/zenodo.1038539)
+Abstract and presentation: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1038539.svg)](https://doi.org/10.5281/zenodo.1038539)
 
 ## Final project (five years degree)
 Filipe Barata, Ricardo Luís, Rita Pereira, "_Plataforma electromecânica de emulação de um sistema de voo_", September 2002\
