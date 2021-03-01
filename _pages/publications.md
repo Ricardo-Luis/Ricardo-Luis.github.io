@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-Publications list in [Google Scholar]()
+Publications list in [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ)
 
 PhD thesis: "Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos", July 2015\
 Engenharia Eletrotécnica e de Computadores\
