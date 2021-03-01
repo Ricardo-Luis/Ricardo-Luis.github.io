@@ -45,11 +45,17 @@ URI: [http://hdl.handle.net/10400.21/1245](http://hdl.handle.net/10400.21/1245)
 
 
 # Former BSc students
-Daroeira, J., Rodrigues, R., "WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula", Projeto e Seminário, ISEL/DEETC, Mar. 2009;}
+Daroeira, J., Rodrigues, R., "WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula", Projeto e Seminário, ISEL/DEETC, Mar. 2009\
+Engenharia Informática e de Computadores\
+Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
-Malveiro, D., Seabra, V., “Maglev Wind Turbine”, Projecto Mecânico, ISEL/DEM, Out. 2008;
+Daniel Malveiro, Valter Seabra, “_Maglev Wind Turbine_”, Projecto Mecânico, ISEL/DEM, Out. 2008\
+Engenharia Mecânica\
+Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
-Rodrigues, B., Madeira, D., "Motor magnético", Projecto Mecânico, ISEL/DEM, Jun. 2008.
+Bruno Rodrigues, David Madeira, "_Motor magnético_", Projecto Mecânico, ISEL/DEM, Jun. 2008\
+Engenharia Mecânica\
+Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
 
 # Former BSc Erasmus students
@@ -62,7 +68,7 @@ BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
 
 # Former BSc students, Erasmus traineeship
-Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo_", ISEL/ADEEEA/LCEC, mar.-jun. 2018\
+Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo_", internship theme, ISEL/ADEEEA/LCEC, mar.-jun. 2018\
 Electronic engineering\
 Department of Electronics and Telecommunications, Politecnico di Torino
 
