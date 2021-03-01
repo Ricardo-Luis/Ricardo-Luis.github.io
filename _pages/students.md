@@ -53,9 +53,13 @@ Rodrigues, B., Madeira, D., "Motor magnético", Projecto Mecânico, ISEL/DEM, Ju
 
 
 # Former BSc Erasmus students
-Mickus, M., "Automatic Parallel supervision of synchronous generators", Diss. BSc in Electrical Engineering - Automation and Control (Faculty of Electronics, Vilnius Gediminas Technical University), ISEL/DEEA, Maio 2008
+Mantas Mickus, "_Automatic Parallel supervision of synchronous generators_", ISEL/DEEA, Maio 2008\
+BSc Diss. in Electrical Engineering - Automation and Control\
+Faculty of Electronics, Vilnius Gediminas Technical University
 
-Nogtev, P., "Double fed asynchronous induction generator machine", Diss. BSc in Electrical Engineering - Automation and Control (Faculty of Electronics, Vilnius Gediminas Technical University), ISEL/DEEA, Maio 2008
+Nogtev, P., "Double fed asynchronous induction generator machine", ISEL/DEEA, Maio 2008\
+BSc Diss. in Electrical Engineering - Automation and Control\
+Faculty of Electronics, Vilnius Gediminas Technical University
 
 # Former BSc students, Erasmus traineeship
 Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo_", ISEL/ADEEEA/LCEC, mar.-jun. 2018\
@@ -65,6 +69,3 @@ Department of Electronics and Telecommunications, Politecnico di Torino
 Paulo Esteban, "_Synchronous Generator - Automatic parallel with generator/electrical grid_", ISEL/DEEA, Jul. 2007\
 Génie Electrique & Informatique Industrielle\
 Electrical Engineering Dept, I.U.T. de Béthune
-
-
-
