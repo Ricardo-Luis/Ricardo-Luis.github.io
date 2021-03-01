@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+![alt text](https://github.com/Ricardo-Luis/ricardo-luis.github.io/assets/fonts/google-scholar.svg  "Logo Title Text 1")
+
+
 ## Former MSc students:
 
 * Carlos Paiva, “_Análise de Elementos Finitos de um Acoplador Magnético para Carregador Sem Contacto Dinâmico Aplicado a Veículos Elétricos_”, MEE-Energia, ISEL, Nov. 2019;
