@@ -23,3 +23,17 @@ Instituto Superior Técnico, Universidade de Lisboa
 Filipe Barata, Ricardo Luís, Rita Pereira, "_Plataforma electromecânica de emulação de um sistema de voo_", September 2002\
 Engenharia Electrotécnica – Automação Industrial e Sistemas de Potência\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
+
+## Seminars:
+"_Stand-alone variable speed diesel gen-set_", WISE'2 – 2º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 18 Abr. 2012
+
+"_Geradores de velocidade variável_", WISE'1 – 1º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 21 Mar. 2011
+
+"_Controlo por Supervisão de um posicionador electromecânico_", 1º Workshop em Engenharia Electrotécnica, ISEL/DEEA, Out. 2005\
+DOI: [10.5281/zenodo.1041941](https://doi.org/10.5281/zenodo.1041941)
+
+"_Planeamento de Manutenção do Laboratório de Máquinas Eléctricas_", Seminários CIPROMEC, ISEL, 29 Nov. 2000\
+DOI: [10.5281/zenodo.1052585](https://doi.org/10.5281/zenodo.1052585)
+
+## Poster presentation 
+"_Variable Speed Generator to Increase the Diesel Gen-set Efficiency_", INESC-ID Lisboa, Instituto Superior Técnico, April 7-8, 2016
