@@ -9,6 +9,8 @@ author_profile: true
 
 ## Publications list, journal and conference papers, on my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) profile
 
+[<img src="https://simpleicons.org/icons/googlescholar.svg?logo=LOGO">](<https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ>)
+
 ## PhD thesis
 "_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_", July 2015\
 Engenharia Eletrotécnica e de Computadores\
@@ -27,11 +29,11 @@ Engenharia Electrotécnica – Automação Industrial e Sistemas de Potência\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
 ## Seminars
-"_Stand-alone variable speed diesel gen-set_", WISE'2 – 2º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 18 Abr. 2012
+"_Stand-alone variable speed diesel gen-set_", WISE'2 – 2º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 18 April 2012
 
-"_Geradores de velocidade variável_", WISE'1 – 1º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 21 Mar. 2011
+"_Geradores de velocidade variável_", WISE'1 – 1º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 21 March 2011
 
-"_Controlo por Supervisão de um posicionador electromecânico_", 1º Workshop em Engenharia Electrotécnica, ISEL/DEEA, Out. 2005\
+"_Controlo por Supervisão de um posicionador electromecânico_", 1º Workshop em Engenharia Electrotécnica, ISEL/DEEA, October 2005\
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1041941.svg)](https://doi.org/10.5281/zenodo.1041941)
 
 "_Planeamento de Manutenção do Laboratório de Máquinas Eléctricas_", Seminários CIPROMEC, ISEL, 29 Nov. 2000\
