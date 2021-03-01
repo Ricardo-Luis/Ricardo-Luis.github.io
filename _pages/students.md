@@ -5,10 +5,6 @@ permalink: /students/
 author_profile: true
 ---
 
-![thumbnail][logo]
-
-[logo]: /assets/fonts/google-scholar.svg "Logo Title Text 2"
-
 
 ## Former MSc students:
 
