@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Publications list, journal and conference papers
+## Journal and conference papers
 Visit my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) profile
 
 ## PhD thesis
