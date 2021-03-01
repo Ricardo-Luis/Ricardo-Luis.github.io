@@ -35,5 +35,5 @@ DOI: [10.5281/zenodo.1041941](https://doi.org/10.5281/zenodo.1041941)
 "_Planeamento de Manutenção do Laboratório de Máquinas Eléctricas_", Seminários CIPROMEC, ISEL, 29 Nov. 2000\
 DOI: [10.5281/zenodo.1052585](https://doi.org/10.5281/zenodo.1052585)
 
-## Poster presentation 
+## Poster presentation:
 "_Variable Speed Generator to Increase the Diesel Gen-set Efficiency_", INESC-ID Lisboa, Instituto Superior Técnico, April 7-8, 2016
