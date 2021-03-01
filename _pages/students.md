@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-![][logo]
+![thumbnail][logo]
 
 [logo]: /assets/fonts/google-scholar.svg "Logo Title Text 2"
 
