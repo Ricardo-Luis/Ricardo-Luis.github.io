@@ -57,13 +57,13 @@ Mantas Mickus, "_Automatic Parallel supervision of synchronous generators_", ISE
 BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
 
-Nogtev, P., "Double fed asynchronous induction generator machine", ISEL/DEEA, Maio 2008\
+Pavel Nogtev, "_Double fed asynchronous induction generator machine_", ISEL/DEEA, Maio 2008\
 BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
 
 # Former BSc students, Erasmus traineeship
 Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo_", ISEL/ADEEEA/LCEC, mar.-jun. 2018\
-Electronic engineering
+Electronic engineering\
 Department of Electronics and Telecommunications, Politecnico di Torino
 
 Paulo Esteban, "_Synchronous Generator - Automatic parallel with generator/electrical grid_", ISEL/DEEA, Jul. 2007\
