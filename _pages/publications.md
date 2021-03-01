@@ -9,7 +9,6 @@ author_profile: true
 
 ## Publications list, journal and conference papers, on my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) profile
 
-[![See In Google Scholar](https://colab.research.google.com/assets/colab-badge.svg)](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ)
 
 ## PhD thesis
 "_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_", July 2015\
