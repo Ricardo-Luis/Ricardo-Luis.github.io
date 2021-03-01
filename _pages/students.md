@@ -38,7 +38,7 @@ Mestrado em Engenharia Eletrotécnica - Ramo Energia\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/2553](http://hdl.handle.net/10400.21/2553)
 
-Nuno Rodeia, "_Desenvolvimento do sistema de tracção de um veículo eléctrico ecológico com travagem regenerativa_", MEE-AEI, ISEL, Nov. 2011\
+Nuno Rodeia, "_Desenvolvimento do sistema de tracção de um veículo eléctrico ecológico com travagem regenerativa_", Nov. 2011\
 Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/1245](http://hdl.handle.net/10400.21/1245)
