@@ -60,7 +60,9 @@ Nogtev, P., "Double fed asynchronous induction generator machine", Diss. BSc in 
 # Former BSc students, Erasmus traineeship
 Michele Pavesi; origem: Itália, Politécnico de Turim; Tema de estágio: Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo, ISEL/ADEEEA/LCEC, mar.-jun. 2018
 
-Esteban, P., "Synchronous Generator - Automatic parallel with generator/electrical grid", ISEL/DEEA, Jul. 2007.
+Paulo Esteban, "_Synchronous Generator - Automatic parallel with generator/electrical grid_", ISEL/DEEA, Jul. 2007\
+Génie Electrique & Informatique Industrielle\
+Electrical Engineering Dept, I.U.T. de Béthune
 
 
 
