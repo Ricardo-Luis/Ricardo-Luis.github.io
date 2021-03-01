@@ -42,3 +42,25 @@ Nuno Rodeia, "_Desenvolvimento do sistema de tracção de um veículo eléctrico
 Mestrado em Engenharia Eletrotécnica - Ramo Automação e Electrónica Industrial
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/1245](http://hdl.handle.net/10400.21/1245)
+
+
+# Former BSc students
+Daroeira, J., Rodrigues, R., "WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula", Projeto e Seminário, ISEL/DEETC, Mar. 2009;}
+
+Malveiro, D., Seabra, V., “Maglev Wind Turbine”, Projecto Mecânico, ISEL/DEM, Out. 2008;
+
+Rodrigues, B., Madeira, D., "Motor magnético", Projecto Mecânico, ISEL/DEM, Jun. 2008.
+
+
+# Former BSc Erasmus students
+Mickus, M., "Automatic Parallel supervision of synchronous generators", Diss. BSc in Electrical Engineering - Automation and Control (Faculty of Electronics, Vilnius Gediminas Technical University), ISEL/DEEA, Maio 2008
+
+Nogtev, P., "Double fed asynchronous induction generator machine", Diss. BSc in Electrical Engineering - Automation and Control (Faculty of Electronics, Vilnius Gediminas Technical University), ISEL/DEEA, Maio 2008
+
+# Former BSc students, Erasmus traineeship
+Michele Pavesi; origem: Itália, Politécnico de Turim; Tema de estágio: Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo, ISEL/ADEEEA/LCEC, mar.-jun. 2018
+
+Esteban, P., "Synchronous Generator - Automatic parallel with generator/electrical grid", ISEL/DEEA, Jul. 2007.
+
+
+
