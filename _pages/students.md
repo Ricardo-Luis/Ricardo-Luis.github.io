@@ -8,8 +8,10 @@ author_profile: true
 
 ## Former MSc students:
 
-* Carlos Paiva, “_Análise de Elementos Finitos de um Acoplador Magnético para Carregador Sem Contacto Dinâmico Aplicado a Veículos Elétricos_”, MEE-Energia, ISEL, Nov. 2019;
-URI: [http://hdl.handle.net/10400.21/12217](http://hdl.handle.net/10400.21/12217)
+* Carlos Paiva, “_Análise de Elementos Finitos de um Acoplador Magnético para Carregador Sem Contacto Dinâmico Aplicado a Veículos Elétricos_”, Nov. 2019\
+  Mestrado em Engenharia Eletrotécnica - Ramo Energia\
+  Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
+  URI: [http://hdl.handle.net/10400.21/12217](http://hdl.handle.net/10400.21/12217)
 
 * Rui Martinho, “_Modelação de Observadores de Posição Aplicados ao Motor Linear Síncrono de Ímanes Permanentes_”, MEE-Energia, ISEL, Nov. 2017;
 URI: [http://hdl.handle.net/10400.21/7985](http://hdl.handle.net/10400.21/7985)
