@@ -72,6 +72,6 @@ Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais sup
 Electronic engineering\
 Department of Electronics and Telecommunications, Politecnico di Torino
 
-Paulo Esteban, "_Synchronous Generator - Automatic parallel with generator/electrical grid_", ISEL/DEEA, Jul. 2007\
+Paulo Esteban, "_Synchronous Generator - Automatic parallel with generator/electrical grid_", internship theme, ISEL/DEEA, Jul. 2007\
 Génie Electrique & Informatique Industrielle\
 Electrical Engineering Dept, Institut Universitaire de Technologie de Béthune
