@@ -7,7 +7,7 @@ author_profile: true
 
 ![alt text][logo]
 
-[logo]: assets/fonts/google-scholar.svg "Logo Title Text 2"
+[logo]: images/mstile-70x70.png "Logo Title Text 2"
 
 
 ## Former MSc students:
