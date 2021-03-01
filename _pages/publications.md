@@ -9,6 +9,8 @@ author_profile: true
 
 ## Publications list, journal and conference papers, on my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) profile
 
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python">
+
 
 ## PhD thesis
 "_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_", July 2015\
