@@ -74,4 +74,4 @@ Department of Electronics and Telecommunications, Politecnico di Torino
 
 Paulo Esteban, "_Synchronous Generator - Automatic parallel with generator/electrical grid_", ISEL/DEEA, Jul. 2007\
 Génie Electrique & Informatique Industrielle\
-Electrical Engineering Dept, I.U.T. de Béthune
+Electrical Engineering Dept, Institut Universitaire de Technologie de Béthune
