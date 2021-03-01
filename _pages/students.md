@@ -5,8 +5,9 @@ permalink: /students/
 author_profile: true
 ---
 
+![alt text][logo]
 
-![alt text](https://github.com/Ricardo-Luis/ricardo-luis.github.io/assets/fonts/google-scholar.svg  "Logo Title Text 1")
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 ## Former MSc students:
