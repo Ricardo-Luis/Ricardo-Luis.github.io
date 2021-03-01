@@ -7,14 +7,13 @@ author_profile: true
 
 
 
-## Publications list, journal and conference papers, on my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) profile
-
+## Publications list, journal and conference papers
+Visit my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) profile
 
 ## PhD thesis
 "_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_", July 2015\
 Engenharia Eletrotécnica e de Computadores\
 Instituto Superior Técnico, Universidade de Lisboa
-
 
 ## MSc dissertation
 "_Desenvolvimento de um Controlador Fuzzy para um Posicionador Electromecânico Linear_", July 2007\
