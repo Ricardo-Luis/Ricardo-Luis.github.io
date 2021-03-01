@@ -7,7 +7,7 @@ author_profile: true
 
 ![alt text][logo]
 
-[logo]: https://github.com/Ricardo-Luis/ricardo-luis.github.io/tree/master/assets/fonts/google-scholar.svg "Logo Title Text 2"
+[logo]: assets/fonts/google-scholar.svg "Logo Title Text 2"
 
 
 ## Former MSc students:
