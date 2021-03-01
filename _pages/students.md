@@ -45,7 +45,7 @@ URI: [http://hdl.handle.net/10400.21/1245](http://hdl.handle.net/10400.21/1245)
 
 
 # Former BSc students
-Daroeira, J., Rodrigues, R., "WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula", Projeto e Seminário, ISEL/DEETC, Mar. 2009\
+José Daroeira, Ricardo Rodrigues, "_WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula_", Projeto e Seminário, ISEL/DEETC, Mar. 2009\
 Engenharia Informática e de Computadores\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
