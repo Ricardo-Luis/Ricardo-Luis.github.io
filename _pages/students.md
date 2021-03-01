@@ -58,7 +58,9 @@ Mickus, M., "Automatic Parallel supervision of synchronous generators", Diss. BS
 Nogtev, P., "Double fed asynchronous induction generator machine", Diss. BSc in Electrical Engineering - Automation and Control (Faculty of Electronics, Vilnius Gediminas Technical University), ISEL/DEEA, Maio 2008
 
 # Former BSc students, Erasmus traineeship
-Michele Pavesi; origem: Itália, Politécnico de Turim; Tema de estágio: Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo, ISEL/ADEEEA/LCEC, mar.-jun. 2018
+Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo_", ISEL/ADEEEA/LCEC, mar.-jun. 2018\
+Electronic engineering
+Department of Electronics and Telecommunications, Politecnico di Torino
 
 Paulo Esteban, "_Synchronous Generator - Automatic parallel with generator/electrical grid_", ISEL/DEEA, Jul. 2007\
 Génie Electrique & Informatique Industrielle\
