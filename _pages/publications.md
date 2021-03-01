@@ -9,24 +9,24 @@ author_profile: true
 
 ## Publications list, journal and conference papers, on my [Google Scholar](https://scholar.google.com/citations?hl=pt-PT&user=7xVeWacAAAAJ) profile
 
-## PhD thesis:
+## PhD thesis
 "_Gerador de Velocidade Variável para Aumento da Eficiência Energética em Grupos Eletrogéneos Autónomos_", July 2015\
 Engenharia Eletrotécnica e de Computadores\
 Instituto Superior Técnico, Universidade de Lisboa
 
 
-## MSc dissertation:
+## MSc dissertation
 "_Desenvolvimento de um Controlador Fuzzy para um Posicionador Electromecânico Linear_", July 2007\
 Engenharia Eletrotécnica e de Computadores\
 Instituto Superior Técnico, Universidade de Lisboa\
 Resume and presentation: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1038539.svg)](https://doi.org/10.5281/zenodo.1038539)
 
-## Final project (five years degree):
+## Final project (five years degree)
 Filipe Barata, Ricardo Luís, Rita Pereira, "_Plataforma electromecânica de emulação de um sistema de voo_", September 2002\
 Engenharia Electrotécnica – Automação Industrial e Sistemas de Potência\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
-## Seminars:
+## Seminars
 "_Stand-alone variable speed diesel gen-set_", WISE'2 – 2º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 18 Abr. 2012
 
 "_Geradores de velocidade variável_", WISE'1 – 1º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 21 Mar. 2011
@@ -37,5 +37,5 @@ Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 "_Planeamento de Manutenção do Laboratório de Máquinas Eléctricas_", Seminários CIPROMEC, ISEL, 29 Nov. 2000\
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1052585.svg)](https://doi.org/10.5281/zenodo.1052585)
 
-## Poster presentation:
+## Poster presentation
 "_Variable Speed Generator to Increase the Diesel Gen-set Efficiency_", INESC-ID Lisboa, Instituto Superior Técnico, April 7-8, 2016
