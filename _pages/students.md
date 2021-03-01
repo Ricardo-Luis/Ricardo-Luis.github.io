@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Former MSc students:
+## Former MSc students
 
 Carlos Paiva, “_Análise de Elementos Finitos de um Acoplador Magnético para Carregador Sem Contacto Dinâmico Aplicado a Veículos Elétricos_”, Nov. 2019\
 Mestrado em Engenharia Eletrotécnica - Ramo Energia\
