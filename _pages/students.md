@@ -44,7 +44,7 @@ Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa\
 URI: [http://hdl.handle.net/10400.21/1245](http://hdl.handle.net/10400.21/1245)
 
 
-# Former BSc students
+## Former BSc students
 José Daroeira, Ricardo Rodrigues, "_WiBo – Wireless Bologne: Ferramenta de suporte a interacções na sala de aula_", Projeto e Seminário, ISEL/DEETC, Mar. 2009\
 Engenharia Informática e de Computadores\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
@@ -58,7 +58,7 @@ Engenharia Mecânica\
 Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
 
-# Former BSc Erasmus students
+## Former BSc Erasmus students
 Mantas Mickus, "_Automatic Parallel supervision of synchronous generators_", ISEL/DEEA, Maio 2008\
 BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
@@ -67,7 +67,7 @@ Pavel Nogtev, "_Double fed asynchronous induction generator machine_", ISEL/DEEA
 BSc Diss. in Electrical Engineering - Automation and Control\
 Faculty of Electronics, Vilnius Gediminas Technical University
 
-# Former BSc students, Erasmus traineeship
+## Former BSc students, Erasmus traineeship
 Michele Pavesi, "_Desenvolvimento de protocolos de comunicação industriais suportados por FPGA de baixo custo_", internship theme, ISEL/ADEEEA/LCEC, mar.-jun. 2018\
 Electronic engineering\
 Department of Electronics and Telecommunications, Politecnico di Torino
