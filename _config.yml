@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ricardo Luís            "
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ricardo Luís"
 description              : &description "personal description"
