@@ -15,7 +15,7 @@ Ricardo Luís develops his research activities in LCEC - [Low Carbon Energy Conv
 
 <style>
 .column {
-    float: center;
+    float: right;
     padding: 10px;
     width: 50%;
 }
