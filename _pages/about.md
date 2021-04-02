@@ -34,8 +34,11 @@ Ricardo Luís develops his research activities in LCEC - [Low Carbon Energy Conv
 <h2>Research interests</h2>
 <ul class="ul-interests">
 <li>Variable speed generators</li>
+</div>
 <li>Energy conversion</li>
+</div>
 <li>Electrical machines design</li>
+</div>
 <li>Energy storage systems</li>
 </ul>
 </div>
@@ -52,7 +55,7 @@ Ricardo Luís develops his research activities in LCEC - [Low Carbon Energy Conv
 </li>
 
 <li>
-<i class="fas fa-graduation-cap"></i> Graduation in Electrical Engineering - industrial automation and power systems, 2002, ISEL, IPL
+<i class="fas fa-graduation-cap"></i> Lic. in Electrical Engineering - industrial automation and power systems, 2002, ISEL, IPL
 </li>
 
 <li>
