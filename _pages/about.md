@@ -12,15 +12,3 @@ Ricardo Luís received the PhD degree in Electrical and Computer Engineering fro
 Currently, he is an Adjunct Professor in the Electrical Engineering Department at the [Instituto Superior de Engenharia de Lisboa](https://www.isel.pt/) (ISEL), Politécnico de Lisboa. He teaches the Electrical Machines courses (BSc degree), Energy Storage Systems and Electrical Machines Design (MSc degree).\
 Ricardo Luís develops his research activities in LCEC - [Low Carbon Energy Conversion R&D Group](https://lcec.isel.pt/) (ISEL) and collaborates with the [Green Energy and Smart Converters](https://www.inesc-id.pt/research-areas/green-energy-and-smart-converters/) group of INESC-ID Lisboa (IST).\
 His research interests include variable speed electrical generators, energy conversion, electrical machines design and energy storage systems.
-
-<div class="collum">
-    <div class="col-md-6">
-        **some code block here**
-        **another code block here**
-    </div>
-    <div class="col-md-6">
-        **some text here**
-        ##some header here
-        ###something else here
-    </div>
-</div>
