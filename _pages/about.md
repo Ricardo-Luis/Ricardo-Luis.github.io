@@ -46,11 +46,11 @@ His research interests include variable speed electrical generators, energy conv
 <h3>Education</h3>
 <ul class="ul-edu fa-ul">
 <li>
-<i class="fa fa-university"></i> PhD in Electrical Engineering and Computers, 2015, IST, ULisboa
+<i class="fa fa-university"></i> PhD in Electrical and Computer Engineering, 2015, IST, ULisboa
 </li>
 
 <li>
-<i class="fa fa-mortar-board"></i> MSc PhD in Electrical Engineering and Computers, 2007, IST, UTLisboa
+<i class="fa fa-mortar-board"></i> MSc in Electrical and Computer Engineering, 2007, IST, UTLisboa
 </li>
 
 <li>
