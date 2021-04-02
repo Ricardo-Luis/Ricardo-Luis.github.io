@@ -32,33 +32,32 @@ His research interests include variable speed electrical generators, energy conv
 <div class="row">
 
 <div class="column">
-<h3>Research interests</h3>
+<h2>Research interests</h2>
 <ul class="ul-interests">
 <li>Variable speed generators</li>
 <li>Energy conversion</li>
-<li>Conservation Biology</li>
 <li>Electrical machines design</li>
 <li>Energy storage systems</li>
 </ul>
 </div>
 
 <div class="column">
-<h3>Education</h3>
+<h2>Education</h2>
 <ul class="ul-edu fa-ul">
 <li>
 <i class="fa fa-university"></i> PhD in Electrical and Computer Engineering, 2015, IST, ULisboa
 </li>
 
 <li>
-<i class="fas fa-graduation-cap"></i> MSc in Electrical and Computer Engineering, 2007, IST, UTLisboa
+<i class="fa fa-university"></i> MSc in Electrical and Computer Engineering, 2007, IST, UTLisboa
 </li>
 
 <li>
-<i class="fa fa-mortar-board"></i> Graduation in Electrical Engineering, 2002, ISEL, IPL
+<i class="fas fa-graduation-cap"></i> Graduation in Electrical Engineering - Industrial automation and power systems, 2002, ISEL, IPL
 </li>
 
 <li>
-<i class="fa fa-mortar-board"></i> BSc in Electrical Engineering, 1998, ISEL, IPL
+<i class="fas fa-graduation-cap"></i> BSc in Electrical Engineering - Industrial automation and power systems, 1998, ISEL, IPL
 </li>
 
 </ul>
