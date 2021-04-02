@@ -34,11 +34,11 @@ Ricardo Luís develops his research activities in LCEC - [Low Carbon Energy Conv
 <h2>Research interests</h2>
 <ul class="ul-interests">
 <li>Variable speed generators</li>
-
+<br>
 <li>Energy conversion</li>
-
+<br>
 <li>Electrical machines design</li>
-<li></li>
+<br>
 <li>Energy storage systems</li>
 </ul>
 </div>
