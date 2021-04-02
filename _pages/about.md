@@ -32,13 +32,13 @@ His research interests include variable speed electrical generators, energy conv
 <div class="row">
 
 <div class="column">
-<h3>Interests</h3>
+<h3>Research interests</h3>
 <ul class="ul-interests">
-<li>Population Modeling</li>
-<li>Statistical Ecology</li>
+<li>Variable speed generators</li>
+<li>Energy conversion</li>
 <li>Conservation Biology</li>
-<li>Time-series Analysis</li>
-<li>Stochastic Processes</li>
+<li>Electrical machines design</li>
+<li>Energy storage systems</li>
 </ul>
 </div>
 
@@ -46,15 +46,19 @@ His research interests include variable speed electrical generators, energy conv
 <h3>Education</h3>
 <ul class="ul-edu fa-ul">
 <li>
-<i class="fa fa-university"></i> PhD in Zoology, 1995, University of Washington
+<i class="fa fa-university"></i> PhD in Electrical Engineering and Computers, 2015, IST, ULisboa
 </li>
 
 <li>
-<i class="fa fa-mortar-board"></i> BS in Mechanical Engineering, 1988, Stanford University
+<i class="fa fa-mortar-board"></i> MSc PhD in Electrical Engineering and Computers, 2007, IST, UTLisboa
 </li>
 
 <li>
-<i class="fa fa-mortar-board"></i> BS in Biology, 1988, Stanford University
+<i class="fa fa-mortar-board"></i> Graduation in Electrical Engineering, 2002, ISEL, IPL
+</li>
+
+<li>
+<i class="fa fa-mortar-board"></i> BSc in Electrical Engineering, 1998, ISEL, IPL
 </li>
 
 </ul>
