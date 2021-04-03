@@ -59,7 +59,7 @@ Ricardo Luís develops his research activities in LCEC - [Low Carbon Energy Conv
 </li>
 
 <li>
-<i class="fas fa-graduation-cap"></i> BSc in Electrical Engineering, 1998, ISEL, IPL
+<i class="fas fa-graduation-cap"></i> BSc in Electrical Engineering, 1999, ISEL, IPL
 </li>
 
 </ul>
