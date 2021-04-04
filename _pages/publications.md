@@ -32,7 +32,7 @@ Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
 
 "_Geradores de velocidade variável_", WISE'1 – 1º Workshop de Intercâmbio da Secção de Energia e Sistemas, ISEL, 21 March 2011
 
-"_Controlo por Supervisão de um posicionador electromecânico_", 1º Workshop em Engenharia Electrotécnica, ISEL/DEEA, October 2005\
+"_Controlo por Supervisão de um posicionador electromecânico_", 1º Workshop em Engenharia Electrotécnica, ISEL/DEEA, 18-19 October 2005\
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1041941.svg)](https://doi.org/10.5281/zenodo.1041941)
 
 "_Planeamento de Manutenção do Laboratório de Máquinas Eléctricas_", Seminários CIPROMEC, ISEL, 29 Nov. 2000\
